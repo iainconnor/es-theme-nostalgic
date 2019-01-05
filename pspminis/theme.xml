@@ -26,8 +26,8 @@
 			<maxSize>0.300 0.300</maxSize>
 			<origin>0.5 0.5</origin>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
-			<showSnapshotDelay>false</showSnapshotDelay>
-			<delay>0</delay>
+			<showSnapshotDelay>true</showSnapshotDelay>
+			<delay>2</delay>
 		</video>
 		
 	</view>

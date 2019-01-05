@@ -1,5 +1,5 @@
 !--
-theme name:     Nostalgic
+theme name:     Nostalgic-4X3
 author: 		SuperMagicom
 email: 			supermagicom@gmail.com
 version         1.0
@@ -180,7 +180,7 @@ version         1.0
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./${system.theme}/background.jpg</path>
+			<path>./${system.theme}/4x3-background.png</path>
 		</image>
 
 		<image name="logo" extra="true">
